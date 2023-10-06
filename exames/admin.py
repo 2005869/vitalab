@@ -6,3 +6,4 @@ from . import models
 admin.site.register(models.TiposExames)
 admin.site.register(models.PedidosExames)
 admin.site.register(models.SolicitacaoExame)
+admin.site.register(models.AcessoMedico)
